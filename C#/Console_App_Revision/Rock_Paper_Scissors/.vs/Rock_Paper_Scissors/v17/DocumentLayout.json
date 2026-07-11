@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Personal Code\\Revision\\C#\\Console_App_Revision\\Rock_Paper_Scissors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF62544-DEB6-4915-BCBF-196C87676F94}|Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj|d:\\desktop\\personal code\\revision\\c#\\console_app_revision\\rock_paper_scissors\\rock_paper_scissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBF62544-DEB6-4915-BCBF-196C87676F94}|Rock_Paper_Scissors\\Rock_Paper_Scissors.csproj|solutionrelative:rock_paper_scissors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\Personal Code\\Revision\\C#\\Console_App_Revision\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Program.cs",
+              "RelativeDocumentMoniker": "Rock_Paper_Scissors\\Program.cs",
+              "ToolTip": "D:\\Desktop\\Personal Code\\Revision\\C#\\Console_App_Revision\\Rock_Paper_Scissors\\Rock_Paper_Scissors\\Program.cs",
+              "RelativeToolTip": "Rock_Paper_Scissors\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T14:18:45.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

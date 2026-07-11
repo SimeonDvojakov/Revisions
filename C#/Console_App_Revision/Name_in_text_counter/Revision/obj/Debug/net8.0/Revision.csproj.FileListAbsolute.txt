@@ -1,0 +1,14 @@
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\bin\Debug\net8.0\Revision.exe
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\bin\Debug\net8.0\Revision.deps.json
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\bin\Debug\net8.0\Revision.runtimeconfig.json
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\bin\Debug\net8.0\Revision.dll
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\bin\Debug\net8.0\Revision.pdb
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\obj\Debug\net8.0\Revision.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\obj\Debug\net8.0\Revision.AssemblyInfoInputs.cache
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\obj\Debug\net8.0\Revision.AssemblyInfo.cs
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\obj\Debug\net8.0\Revision.csproj.CoreCompileInputs.cache
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\obj\Debug\net8.0\Revision.dll
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\obj\Debug\net8.0\refint\Revision.dll
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\obj\Debug\net8.0\Revision.pdb
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\obj\Debug\net8.0\Revision.genruntimeconfig.cache
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Revision\Revision\obj\Debug\net8.0\ref\Revision.dll

@@ -1,0 +1,14 @@
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\bin\Debug\net8.0\Date_Identifyer.exe
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\bin\Debug\net8.0\Date_Identifyer.deps.json
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\bin\Debug\net8.0\Date_Identifyer.runtimeconfig.json
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\bin\Debug\net8.0\Date_Identifyer.dll
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\bin\Debug\net8.0\Date_Identifyer.pdb
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\obj\Debug\net8.0\Date_Identifyer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\obj\Debug\net8.0\Date_Identifyer.AssemblyInfoInputs.cache
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\obj\Debug\net8.0\Date_Identifyer.AssemblyInfo.cs
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\obj\Debug\net8.0\Date_Identifyer.csproj.CoreCompileInputs.cache
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\obj\Debug\net8.0\Date_Identifyer.dll
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\obj\Debug\net8.0\refint\Date_Identifyer.dll
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\obj\Debug\net8.0\Date_Identifyer.pdb
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\obj\Debug\net8.0\Date_Identifyer.genruntimeconfig.cache
+D:\Desktop\Personal Code\Revision\C#\Console_App_Revision\Date_Identifyer\Date_Identifyer\obj\Debug\net8.0\ref\Date_Identifyer.dll
