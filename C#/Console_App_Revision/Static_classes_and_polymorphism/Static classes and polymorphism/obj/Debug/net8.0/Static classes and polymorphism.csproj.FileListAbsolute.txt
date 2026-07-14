@@ -1,0 +1,14 @@
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\bin\Debug\net8.0\Static classes and polymorphism.exe
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\bin\Debug\net8.0\Static classes and polymorphism.deps.json
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\bin\Debug\net8.0\Static classes and polymorphism.runtimeconfig.json
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\bin\Debug\net8.0\Static classes and polymorphism.dll
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\bin\Debug\net8.0\Static classes and polymorphism.pdb
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\obj\Debug\net8.0\Static classes and polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\obj\Debug\net8.0\Static classes and polymorphism.AssemblyInfoInputs.cache
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\obj\Debug\net8.0\Static classes and polymorphism.AssemblyInfo.cs
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\obj\Debug\net8.0\Static classes and polymorphism.csproj.CoreCompileInputs.cache
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\obj\Debug\net8.0\Static classes and polymorphism.dll
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\obj\Debug\net8.0\refint\Static classes and polymorphism.dll
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\obj\Debug\net8.0\Static classes and polymorphism.pdb
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\obj\Debug\net8.0\Static classes and polymorphism.genruntimeconfig.cache
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Static classes and polymorphism\Static classes and polymorphism\obj\Debug\net8.0\ref\Static classes and polymorphism.dll

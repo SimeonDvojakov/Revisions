@@ -1,0 +1,14 @@
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\bin\Debug\net8.0\Abstract_Classes_And_Interfaces.exe
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\bin\Debug\net8.0\Abstract_Classes_And_Interfaces.deps.json
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\bin\Debug\net8.0\Abstract_Classes_And_Interfaces.runtimeconfig.json
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\bin\Debug\net8.0\Abstract_Classes_And_Interfaces.dll
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\bin\Debug\net8.0\Abstract_Classes_And_Interfaces.pdb
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\obj\Debug\net8.0\Abstract_Classes_And_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\obj\Debug\net8.0\Abstract_Classes_And_Interfaces.AssemblyInfoInputs.cache
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\obj\Debug\net8.0\Abstract_Classes_And_Interfaces.AssemblyInfo.cs
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\obj\Debug\net8.0\Abstract_Classes_And_Interfaces.csproj.CoreCompileInputs.cache
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\obj\Debug\net8.0\Abstract_Classes_And_Interfaces.dll
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\obj\Debug\net8.0\refint\Abstract_Classes_And_Interfaces.dll
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\obj\Debug\net8.0\Abstract_Classes_And_Interfaces.pdb
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\obj\Debug\net8.0\Abstract_Classes_And_Interfaces.genruntimeconfig.cache
+D:\Desktop\Personal Code\Revisions_Code\C#\Console_App_Revision\Abstract_Classes_And_Interfaces\Abstract_Classes_And_Interfaces\obj\Debug\net8.0\ref\Abstract_Classes_And_Interfaces.dll
